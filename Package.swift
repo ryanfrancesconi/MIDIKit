@@ -47,7 +47,7 @@ let package = Package(
     ],
     
     dependencies: [
-        .package(url: "https://github.com/ryanfrancesconi/TimecodeKit", branch: "remove-disfavoredOverload"),
+        .package(url: "https://github.com/ryanfrancesconi/TimecodeKit", branch: "add"),
         
         // testing only:
         .package(url: "https://github.com/orchetect/XCTestUtils", from: "1.0.3")
